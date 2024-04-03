@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "d440ebebc15696d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c00540e56c1818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "782391b640d728b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/07-05-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "ace55bd8199ae48f"
+          }
+        ]
+      },
+      {
+        "id": "b2d656a0612c524c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e4ff0a608243b1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Daily Note/07-05-2023.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.231271979337826,
+                  "close": false
+                }
+              }
+            },
+            "group": "ace55bd8199ae48f"
+          }
+        ]
+      },
+      {
+        "id": "4fd170bbc4e45119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "778ba67928337746",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Daily Note/07-05-2023.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.980692127569639,
+                  "close": false
+                }
+              }
+            },
+            "group": "ace55bd8199ae48f"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e301e114dfe431c4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4289193faddd99d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f74e8e3fe59f686f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5eccffbf09b35590",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1b9f66211cce1a43",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fc9dc4ade8ceb2ee",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "de5d0f353eb11ee7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Daily Note/07-05-2023.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e9e96f3b98bc4864",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Daily Note/07-05-2023.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "47f65d18ea64b191",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Daily Note/07-05-2023.md"
+          }
+        }
+      },
+      {
+        "id": "2d661140ea66c5df",
+        "type": "leaf",
+        "state": {
+          "type": "podcast_player_view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-book-search-plugin:Create new book note": false
+    }
+  },
+  "active": "782391b640d728b4",
+  "lastOpenFiles": [
+    "Daily Note/06-05-2023.md",
+    "Daily Note/07-05-2023.md",
+    "Daily Note/09-05-2023.md",
+    "Templates/Book Template.md",
+    "Templates/Article Template.md",
+    "Untitled",
+    "Templates/Daily Note Template.md",
+    "Templates/Core Zettel Permanent Template.md",
+    "Zettelkasten/Yuval Noah Harari.md",
+    "Daily Note/03-05-2023.md",
+    "Zettelkasten/Coxdex Forster I.md",
+    "Reference Notes/Videos/How to Be a Genius_Leonardo da Vinci's 5 Rules.md",
+    "Reference Notes/Videos/Adam Savage's Leonardo Da Vinci Notebooks Collection!.md",
+    "Zettelkasten/Adam Savage.md",
+    "Reference Notes/Books/How to Take Smart Notes.md",
+    "Zettelkasten/Leonardo Da Vinci.md",
+    "Zettelkasten/Obsidian with Linux.md",
+    "Zettelkasten/Coxed Forster I.md",
+    "Templates/Video Template.md",
+    "Files/Pasted image 20230507003918.png",
+    "Daily Note/05-05-2023.md",
+    "Zettelkasten/FromSergio.md",
+    "Templates/Core Zettel Info Template.md",
+    "Zettelkasten/Collezione Apocrifa da Vinci.md",
+    "Reference Notes/Books/Leonardo Da Vinci - Walter Isaacson.md",
+    "Reference Notes/Videos/yinote_(2893) How to sync Obsidian 4 FREE · Syncthing vs Autosync - YouTube.md",
+    "Daily Note/04-05-2023.md",
+    "Reference Notes/Videos",
+    "Reference Notes/Articles"
+  ]
+}

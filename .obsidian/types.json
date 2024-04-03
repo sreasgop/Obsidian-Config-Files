@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "page-title": "text",
+    "date": "datetime",
+    "Created On": "datetime",
+    "Category": "text",
+    "Zettel type": "text"
+  }
+}

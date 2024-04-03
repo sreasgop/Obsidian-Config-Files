@@ -1,0 +1,373 @@
+{
+  "savedFeeds": {
+    "Deep Dive with Ali Abdaal": {
+      "title": "Deep Dive with Ali Abdaal",
+      "url": "https://feeds.transistor.fm/deep-dive-with-ali-abdaal",
+      "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/dc/78/ae/dc78ae3f-df36-e46d-0e51-5ec3835441c1/mza_8587100128796485585.jpg/100x100bb.jpg",
+      "collectionId": 1587142091
+    },
+    "Lex Fridman Podcast": {
+      "title": "Lex Fridman Podcast",
+      "url": "https://lexfridman.com/feed/podcast/",
+      "artworkUrl": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts115/v4/3e/e3/9c/3ee39c89-de08-47a6-7f3d-3849cef6d255/mza_16657851278549137484.png/100x100bb.jpg",
+      "collectionId": 1434243584
+    },
+    "The Ranveer Show हिंदी": {
+      "title": "The Ranveer Show हिंदी",
+      "url": "https://feeds.simplecast.com/Qj87SOvG",
+      "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts122/v4/85/0f/b1/850fb175-b567-dd00-59c1-f1160724d494/mza_11559786574812814174.jpg/100x100bb.jpg",
+      "collectionId": 1542452346
+    },
+    "The Tim Ferriss Show": {
+      "title": "The Tim Ferriss Show",
+      "url": "https://rss.art19.com/tim-ferriss-show",
+      "artworkUrl": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/1e/6c/a3/1e6ca389-8db6-f7e0-7883-1f84d446fb03/mza_1352041245047545601.jpeg/100x100bb.jpg",
+      "collectionId": 863897795
+    },
+    "The Knowledge Project with Shane Parrish": {
+      "title": "The Knowledge Project with Shane Parrish",
+      "url": "https://theknowledgeproject.libsyn.com/rss",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/f1/80/84/f1808437-c5da-c132-fa71-dba72d59dc05/mza_8966455432296667384.png/100x100bb.jpg",
+      "collectionId": 990149481
+    },
+    "Huberman Lab": {
+      "title": "Huberman Lab",
+      "url": "https://feeds.megaphone.fm/hubermanlab",
+      "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/92/fe/9b/92fe9b92-71ce-2db3-d7bc-341734439c5b/mza_17334163224187182080.jpeg/100x100bb.jpg",
+      "collectionId": 1545953110
+    },
+    "Darknet Diaries": {
+      "title": "Darknet Diaries",
+      "url": "https://feeds.megaphone.fm/darknetdiaries",
+      "artworkUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/d9/e6/9c/d9e69cfc-4b65-c879-75d6-6624246f0ded/mza_12966154832216548918.jpg/100x100bb.jpg",
+      "collectionId": 1296350485
+    },
+    "On Purpose with Jay Shetty": {
+      "title": "On Purpose with Jay Shetty",
+      "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/32f1779e-bc01-4d36-89e6-afcb01070c82/e0c8382f-48d4-42bb-89d5-afcb01075cb4/podcast.rss",
+      "artworkUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/26/38/a3/2638a338-ded8-8425-2385-8c3d25496f7c/mza_7671055784216102164.jpg/100x100bb.jpg",
+      "collectionId": 1450994021
+    },
+    "The #AskAbhijit Show": {
+      "title": "The #AskAbhijit Show",
+      "url": "https://feeds.soundcloud.com/users/soundcloud:users:479405643/sounds.rss",
+      "artworkUrl": "https://is5-ssl.mzstatic.com/image/thumb/PodcastSource125/v4/78/28/2b/78282b8a-1767-c11d-d6d5-0996f710c954/e0fead2c-b2e0-47cc-baea-b5c7488a4238.jpg/100x100bb.jpg",
+      "collectionId": 1572317262
+    },
+    "The Jordan B. Peterson Podcast": {
+      "title": "The Jordan B. Peterson Podcast",
+      "url": "https://feeds.simplecast.com/vsy1m5LV",
+      "artworkUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts112/v4/6e/7b/5a/6e7b5af3-b8c9-9d4c-9ca7-d23238187f10/mza_5230574258595727520.jpeg/100x100bb.jpg",
+      "collectionId": 1184022695
+    },
+    "Naval": {
+      "title": "Naval",
+      "url": "https://naval.libsyn.com/rss",
+      "artworkUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/f4/dc/ebf4dc3a-0292-a846-b8a1-496ea5c8b435/mza_6617487660716274171.png/100x100bb.jpg",
+      "collectionId": 1454097755
+    },
+    "Techmeme Ride Home": {
+      "title": "Techmeme Ride Home",
+      "url": "https://rss.art19.com/techmeme-ridehome",
+      "artworkUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/61/ba/0d/61ba0deb-9039-5f9a-ce6a-25ed1143778c/mza_10697099689414881036.jpeg/100x100bb.jpg",
+      "collectionId": 1355212895
+    },
+    "My First Million": {
+      "title": "My First Million",
+      "url": "https://feeds.megaphone.fm/HS2300184645",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/93/c6/82/93c682c2-fc1d-2c5c-314d-23ceceb10d94/mza_5356701121160744978.jpg/100x100bb.jpg",
+      "collectionId": 1469759170
+    },
+    "Business Movers": {
+      "title": "Business Movers",
+      "url": "https://rss.art19.com/business-movers",
+      "artworkUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/73/f6/69/73f6691b-9a30-d372-5743-bbd40f87c43d/mza_12234843372179826968.jpeg/100x100bb.jpg",
+      "collectionId": 1546027998
+    },
+    "Business Wars": {
+      "title": "Business Wars",
+      "url": "https://rss.art19.com/business-wars",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/95/f7/60/95f760da-c3bd-b2cf-88bb-7d20ac20b5cb/mza_17023138958624437208.jpeg/100x100bb.jpg",
+      "collectionId": 1335814741
+    },
+    "Syntax - Tasty Web Development Treats": {
+      "title": "Syntax - Tasty Web Development Treats",
+      "url": "https://feed.syntax.fm/rss",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/9f/af/3f/9faf3fc9-98b8-4763-382e-dcccea5fa5c9/mza_3415071783848980264.png/100x100bb.jpg",
+      "collectionId": 1253186678
+    },
+    "Full Stack Radio": {
+      "title": "Full Stack Radio",
+      "url": "https://feeds.transistor.fm/full-stack-radio",
+      "artworkUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts115/v4/33/62/6a/33626a3e-095d-bdea-623d-863bbfd0e5bd/mza_8499610511616227521.jpg/100x100bb.jpg",
+      "collectionId": 931714873
+    },
+    "Waveform: The MKBHD Podcast": {
+      "title": "Waveform: The MKBHD Podcast",
+      "url": "https://feeds.megaphone.fm/STU4418364045",
+      "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4d/a4/99/4da4999a-a63b-e538-f61a-32ab2d706da1/mza_3594290234478964482.jpeg/100x100bb.jpg",
+      "collectionId": 1474429475
+    },
+    "TED Talks Daily": {
+      "title": "TED Talks Daily",
+      "url": "http://feeds.feedburner.com/TEDTalks_audio",
+      "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d2/09/d5/d209d58f-8f9f-c2aa-3c59-0ffc4e5e35ec/mza_11998461689189714171.png/100x100bb.jpg",
+      "collectionId": 160904630
+    },
+    "TED Business": {
+      "title": "TED Business",
+      "url": "http://feeds.feedburner.com/iTunesPodcastTTBusiness",
+      "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ab/11/06/ab11065a-57cd-8472-526e-d5799b2a8163/mza_13207937671651466185.jpg/100x100bb.jpg",
+      "collectionId": 470622782
+    },
+    "How to Be a Better Human": {
+      "title": "How to Be a Better Human",
+      "url": "https://feeds.feedburner.com/HowToBeABetterHuman",
+      "artworkUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/e2/84/07e2843d-0ca6-4f93-7fb8-cc93ff0cfa6f/mza_12830515654437380525.jpg/100x100bb.jpg",
+      "collectionId": 1544098624
+    },
+    "TED Talks Society and Culture": {
+      "title": "TED Talks Society and Culture",
+      "url": "https://feeds.feedburner.com/iTunesPodcastTTSocietyCulture",
+      "artworkUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/87/3b/23/873b23b9-0c34-4005-3748-ab5bfb5ce097/mza_5170853768330095980.png/100x100bb.jpg",
+      "collectionId": 470623803
+    },
+    "The Ben Shapiro Show": {
+      "title": "The Ben Shapiro Show",
+      "artworkUrl": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f0/44/1f/f0441f40-8971-e3fa-e662-160b1685ddda/mza_14401724982159517756.jpg/100x100bb.jpg",
+      "collectionId": 1047335260
+    },
+    "CodeNewbie": {
+      "title": "CodeNewbie",
+      "url": "http://feeds.codenewbie.org/cnpodcast.xml",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/29/d5/e8/29d5e802-b5e7-9dc4-f300-e6472ac27d04/mza_440076239163041537.png/100x100bb.jpg",
+      "collectionId": 919219256
+    },
+    "Learn to Code With Me": {
+      "title": "Learn to Code With Me",
+      "url": "https://learntocodewithme.libsyn.com/rss",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/20/65/59/2065591e-4504-562c-e246-18e2a811b9d8/mza_11148505131062887797.png/100x100bb.jpg",
+      "collectionId": 1106620664
+    },
+    "Java Pub House": {
+      "title": "Java Pub House",
+      "url": "https://javapubhouse.libsyn.com/rss",
+      "artworkUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/41/6b/70/416b7014-c503-c317-703f-1b6dd15ab750/mza_8976320528824420339.png/100x100bb.jpg",
+      "collectionId": 467641329
+    },
+    "Java Off-Heap": {
+      "title": "Java Off-Heap",
+      "url": "https://offheap.libsyn.com/rss",
+      "artworkUrl": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ff/a2/12/ffa212c7-7483-96bd-b906-6ff422288508/mza_11965233412308941985.png/100x100bb.jpg",
+      "collectionId": 985064111
+    },
+    "Fragmented - The Software Podcast": {
+      "title": "Fragmented - The Software Podcast",
+      "url": "https://feeds.simplecast.com/LpAGSLnY",
+      "artworkUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cc/23/92/cc239294-f403-abaf-6cb9-288d27a72668/mza_8115440122995727524.jpg/100x100bb.jpg",
+      "collectionId": 968779958
+    },
+    "Developer Tea": {
+      "title": "Developer Tea",
+      "url": "https://feeds.simplecast.com/dLRotFGk",
+      "artworkUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/2f/54/1e/2f541ebb-5fae-b266-f44c-149260fb0467/mza_252375566174263230.jpg/100x100bb.jpg",
+      "collectionId": 955596067
+    },
+    "ShopTalk": {
+      "title": "ShopTalk",
+      "url": "https://shoptalkshow.com/feed/podcast/",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/7b/29/20/7b2920d0-37a9-36e6-aa84-f3249b03f48e/mza_4868856405339949426.png/100x100bb.jpg",
+      "collectionId": 493890455
+    },
+    "The Changelog: Software Development, Open Source": {
+      "title": "The Changelog: Software Development, Open Source",
+      "url": "https://changelog.com/podcast/feed",
+      "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b5/b1/43/b5b14333-7cbe-123d-c444-0204e5d08102/mza_311421542997449775.png/100x100bb.jpg",
+      "collectionId": 341623264
+    },
+    "Fraz": {
+      "title": "Fraz",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC81Q2wnuk5KqOFVgAbq4nUw",
+      "artworkUrl": ""
+    },
+    "The BarberShop with Shantanu": {
+      "title": "The BarberShop with Shantanu",
+      "url": "https://media.rss.com/thebarbershopwithshantanu/feed.xml",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/2d/9e/ef/2d9eef99-24e0-46ae-b5e2-c7430053ee23/mza_2006545251384509804.jpg/100x100bb.jpg",
+      "collectionId": 1657402141
+    }
+  },
+  "podNotes": {},
+  "defaultPlaybackRate": 1,
+  "playedEpisodes": {
+    "Come Follow The Ranveer Show only on Spotify!": {
+      "title": "Come Follow The Ranveer Show only on Spotify!",
+      "podcastName": "The Ranveer Show",
+      "time": 7.603784,
+      "duration": 56.816327,
+      "finished": false
+    },
+    "351. The Demise of the Left: from Liberalism to Marxism | Naomi Wolf": {
+      "title": "351. The Demise of the Left: from Liberalism to Marxism | Naomi Wolf",
+      "podcastName": "The Jordan B. Peterson Podcast",
+      "time": 55.343229,
+      "duration": 6317.844875,
+      "finished": false
+    },
+    "The amazing AI super tutor for students and teachers | Sal Khan": {
+      "title": "The amazing AI super tutor for students and teachers | Sal Khan",
+      "podcastName": "TED Talks Daily",
+      "time": 207.583881,
+      "duration": 889.488,
+      "finished": false
+    },
+    "Dr. Gina Poe: Use Sleep to Enhance Learning, Memory & Emotional State": {
+      "title": "Dr. Gina Poe: Use Sleep to Enhance Learning, Memory & Emotional State",
+      "podcastName": "Huberman Lab",
+      "time": 0,
+      "duration": 0,
+      "finished": true
+    },
+    "Leverage Dopamine to Overcome Procrastination & Optimize Effort": {
+      "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+      "podcastName": "Huberman Lab",
+      "time": 4.609017,
+      "duration": 7128.999125,
+      "finished": false
+    },
+    "#126 – James Gosling: Java, JVM, Emacs, and the Early Days of Computing": {
+      "title": "#126 – James Gosling: Java, JVM, Emacs, and the Early Days of Computing",
+      "podcastName": "Lex Fridman Podcast",
+      "time": 0,
+      "duration": 0,
+      "finished": true
+    },
+    "#109 – Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming": {
+      "title": "#109 – Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming",
+      "podcastName": "Lex Fridman Podcast",
+      "time": 0.815863,
+      "duration": 6216.874667,
+      "finished": false
+    }
+  },
+  "favorites": {
+    "icon": "lucide-star",
+    "name": "Favorites",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": []
+  },
+  "queue": {
+    "icon": "list-ordered",
+    "name": "Queue",
+    "shouldEpisodeRemoveAfterPlay": true,
+    "shouldRepeat": false,
+    "episodes": [
+      {
+        "title": "#109 – Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming",
+        "streamUrl": "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_kernighan.mp3",
+        "url": "https://lexfridman.com/brian-kernighan/?utm_source=rss&utm_medium=rss&utm_campaign=brian-kernighan",
+        "description": "Brian Kernighan is a professor of computer science at Princeton University. He co-authored the C Programming Language with Dennis Ritchie (creator of C) and has written a lot of books on programming, computers, and life including the Practice of Programming, the Go Programming Language, his latest UNIX: A History and a Memoir. He co-created AWK, the text processing language used by Linux folks like myself. He co-designed AMPL, an algebraic modeling language for large-scale optimization.\n\nSupport this podcast by supporting our sponsors:\n- Eight Sleep: https://eightsleep.com/lex\n- Raycon: http://buyraycon.com/lex\n\nIf you would like to get more information about this podcast go to https://lexfridman.com/ai or connect with @lexfridman on Twitter, LinkedIn, Facebook, Medium, or YouTube where you can watch the video versions of these conversations. If you enjoy the podcast, please rate it 5 stars on Apple Podcasts, follow on Spotify, or support it on Patreon.\n\nHere's the outline of the episode. On some podcast players you should be able to click the timestamp to jump to that time.\n\nOUTLINE:\n00:00 - Introduction\n04:24 - UNIX early days\n22:09 - Unix philosophy\n31:54 - Is programming art or science?\n35:18 - AWK\n42:03 - Programming setup\n46:39 - History of programming languages\n52:48 - C programming language\n58:44 - Go language\n1:01:57 - Learning new programming languages\n1:04:57 - Javascript\n1:08:16 - Variety of programming languages\n1:10:30 - AMPL\n1:18:01 - Graph theory\n1:22:20 - AI in 1964\n1:27:50 - Future of AI\n1:29:47 - Moore's law\n1:32:54 - Computers in our world\n1:40:37 - Life",
+        "content": "<p>Brian Kernighan is a professor of computer science at Princeton University. He co-authored the C Programming Language with Dennis Ritchie (creator of C) and has written a lot of books on programming, computers, and life including the Practice of Programming, the Go Programming Language, his latest UNIX: A History and a Memoir. He co-created AWK, the text processing language used by Linux folks like myself. He co-designed AMPL, an algebraic modeling language for large-scale optimization.</p>\n<p>Support this podcast by supporting our sponsors:<br />\n&#8211; Eight Sleep: <a href=\"https://eightsleep.com/lex\">https://eightsleep.com/lex</a><br />\n&#8211; Raycon: <a href=\"http://buyraycon.com/lex\">http://buyraycon.com/lex</a></p>\n<p>If you would like to get more information about this podcast go to <a href=\"https://lexfridman.com/ai\">https://lexfridman.com/ai</a> or connect with @lexfridman on <a href=\"https://twitter.com/lexfridman\">Twitter</a>, <a href=\"https://www.linkedin.com/in/lexfridman/\">LinkedIn</a>, <a href=\"https://www.facebook.com/lexfridman\">Facebook</a>, <a href=\"https://medium.com/@lexfridman\">Medium</a>, or <a href=\"https://www.youtube.com/lexfridman\">YouTube</a> where you can watch the video versions of these conversations. If you enjoy the podcast, please rate it 5 stars on <a href=\"https://podcasts.apple.com/us/podcast/artificial-intelligence/id1434243584\">Apple Podcasts</a>, follow on <a href=\"https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL\">Spotify</a>, or support it on <a href=\"https://www.patreon.com/lexfridman\">Patreon</a>.</p>\n<p>Here&#8217;s the outline of the episode. On some podcast players you should be able to click the timestamp to jump to that time.</p>\n<p>OUTLINE:<br />\n00:00 &#8211; Introduction<br />\n04:24 &#8211; UNIX early days<br />\n22:09 &#8211; Unix philosophy<br />\n31:54 &#8211; Is programming art or science?<br />\n35:18 &#8211; AWK<br />\n42:03 &#8211; Programming setup<br />\n46:39 &#8211; History of programming languages<br />\n52:48 &#8211; C programming language<br />\n58:44 &#8211; Go language<br />\n1:01:57 &#8211; Learning new programming languages<br />\n1:04:57 &#8211; Javascript<br />\n1:08:16 &#8211; Variety of programming languages<br />\n1:10:30 &#8211; AMPL<br />\n1:18:01 &#8211; Graph theory<br />\n1:22:20 &#8211; AI in 1964<br />\n1:27:50 &#8211; Future of AI<br />\n1:29:47 &#8211; Moore&#8217;s law<br />\n1:32:54 &#8211; Computers in our world<br />\n1:40:37 &#8211; Life</p>\n",
+        "podcastName": "Lex Fridman Podcast",
+        "artworkUrl": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+        "episodeDate": "2020-07-18T21:28:25.000Z",
+        "feedUrl": "https://lexfridman.com/feed/podcast/",
+        "itunesTitle": ""
+      },
+      {
+        "title": "#126 – James Gosling: Java, JVM, Emacs, and the Early Days of Computing",
+        "streamUrl": "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_gosling.mp3",
+        "url": "https://lexfridman.com/james-gosling/?utm_source=rss&utm_medium=rss&utm_campaign=james-gosling",
+        "description": "James Gosling is the founder and lead designer of the Java programming language. Please check out our sponsors to get a discount and to support this podcast:\n- Public Goods: https://publicgoods.com/lex and use code LEX\n- BetterHelp: https://betterhelp.com/lex\n- ExpressVPN: https://www.expressvpn.com/lexpod\n\nIf you would like to get more information about this podcast go to https://lexfridman.com/podcast or connect with @lexfridman on Twitter, LinkedIn, Facebook, Medium, or YouTube where you can watch the video versions of these conversations. If you enjoy the podcast, please rate it 5 stars on Apple Podcasts, follow on Spotify, or support it on Patreon.\n\nHere's the outline of the episode. On some podcast players you should be able to click the timestamp to jump to that time.\n\nOUTLINE:\n0:00 - Introduction\n4:45 - Irrational numbers\n8:04 - Math and programming\n10:36 - Coding style\n14:41 - First computer\n23:54 - Lisp\n27:22 - Write an Emacs implementation in C\n35:15 - Early days of the Internet\n45:57 - Elon Musk, Steve Jobs, Jeff Bezos\n56:13 - Work hard and smart\n58:48 - Open source\n1:10:25 - Java\n1:28:31 - Java virtual machine\n1:44:05 - Android\n1:47:04 - Advice",
+        "content": "<p>James Gosling is the founder and lead designer of the Java programming language. Please check out our sponsors to get a discount and to support this podcast:<br />\n&#8211; <strong>Public Goods</strong>: <a href=\"https://publicgoods.com/lex\">https://publicgoods.com/lex</a> and use code LEX<br />\n&#8211; <strong>BetterHelp</strong>: <a href=\"https://betterhelp.com/lex\">https://betterhelp.com/lex</a><br />\n&#8211; <strong>ExpressVPN</strong>: <a href=\"https://www.expressvpn.com/lexpod\">https://www.expressvpn.com/lexpod</a></p>\n<p>If you would like to get more information about this podcast go to <a href=\"https://lexfridman.com/podcast\">https://lexfridman.com/podcast</a>&nbsp;or connect with @lexfridman on <a href=\"https://twitter.com/lexfridman\">Twitter</a>, <a href=\"https://www.linkedin.com/in/lexfridman/\">LinkedIn</a>, <a href=\"https://www.facebook.com/lexfridman\">Facebook</a>, <a href=\"https://medium.com/@lexfridman\">Medium</a>, or <a href=\"https://www.youtube.com/lexfridman\">YouTube</a> where you can watch the video versions of these conversations. If you enjoy the podcast, please rate it 5 stars on <a href=\"https://podcasts.apple.com/us/podcast/id1434243584\">Apple Podcasts</a>, follow on <a href=\"https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL\">Spotify</a>, or support it on <a href=\"https://www.patreon.com/lexfridman\">Patreon</a>.</p>\n<p>Here&#8217;s the outline of the episode. On some podcast players you should be able to click the timestamp to jump to that time.</p>\n<p>OUTLINE:<br />\n0:00 &#8211; Introduction<br />\n4:45 &#8211; Irrational numbers<br />\n8:04 &#8211; Math and programming<br />\n10:36 &#8211; Coding style<br />\n14:41 &#8211; First computer<br />\n23:54 &#8211; Lisp<br />\n27:22 &#8211; Write an Emacs implementation in C<br />\n35:15 &#8211; Early days of the Internet<br />\n45:57 &#8211; Elon Musk, Steve Jobs, Jeff Bezos<br />\n56:13 &#8211; Work hard and smart<br />\n58:48 &#8211; Open source<br />\n1:10:25 &#8211; Java<br />\n1:28:31 &#8211; Java virtual machine<br />\n1:44:05 &#8211; Android<br />\n1:47:04 &#8211; Advice</p>\n",
+        "podcastName": "Lex Fridman Podcast",
+        "artworkUrl": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+        "episodeDate": "2020-09-24T14:31:26.000Z",
+        "feedUrl": "https://lexfridman.com/feed/podcast/",
+        "itunesTitle": ""
+      },
+      {
+        "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+        "streamUrl": "https://chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM2602950288.mp3?updated=1679929342",
+        "url": "https://hubermanlab.com/leverage-dopamine-to-overcome-procrastination-and-optimize-effort/",
+        "description": "In this episode, I explain how dopamine dynamics — meaning changes and interactions between our baseline and peak levels of dopamine drive our cravings and sense of motivation. I also explain how to leverage dopamine dynamics to overcome procrastination. I cover behavioral, cognitive, nutrition-based and supplementation-based tools to optimize baseline and peak dopamine levels to ensure a persistently motivated state. I also discuss how to boost motivation when you are in a rut, why you might not want to stack behaviors/substances that spike dopamine and how to build and maintain a “growth mindset” for pursuing goals of any kind. Dopamine is an incredibly powerful neuromodulator involved in basic functions (e.g., hunger, romantic attraction, etc.) and feats of cognitive and physical performance; by understanding the dynamics of dopamine, listeners ought to be better positioned to overcome procrastination, maintain motivation, and improve confidence.\nFor the full show notes, visit hubermanlab.com.\nThank you to our sponsors\nAG1 (Athletic Greens): https://athleticgreens.com/huberman\nHelix Sleep: https://helixsleep.com/huberman\nWHOOP: https://join.whoop.com/huberman\nROKA: https://roka.com/huberman\nInsideTracker: https://www.insidetracker.com/huberman\nSupplements from Momentous\nhttps://www.livemomentous.com/huberman\nTimestamps\n(00:00:00) Dopamine\n(00:02:32) Sponsors: Helix Sleep, WHOOP, ROKA, Momentous\n(00:06:27) Dopamine Brain Circuits\n(00:14:53) Goals & Addiction\n(00:17:13) Dopamine Dynamics, “Wave Pool” analogy\n(00:20:28) Craving, Motivation, Pursuit & Reward Prediction Error\n(00:28:26) Sponsor: AG1 (Athletic Greens)\n(00:29:40) Feedback Cues & Reward Contingent Learning, “Scoreboard”\n(00:37:40) Addiction; Pleasure & Pain Imbalance\n(00:44:55) Dopamine Release & Addictive Substances/Behaviors\n(00:50:43) Addiction Recovery, Binding Behaviors\n(00:53:25) Tools: Maintain Baseline Dopamine Levels\n(01:02:08) Sponsor: InsideTracker\n(01:03:26) Tool: Deliberate Cold Exposure & Dopamine\n(01:09:38) Prescriptions & Supplementation: L-Tyrosine, Mucuna Pruriens\n(01:18:58) Dopamine Trough Recovery, Postpartum Depression\n(01:23:31) Dopamine Dynamics, “Dopamine Stacking”; Intrinsic Motivation\n(01:38:10) Making Effort the Reward, Growth Mindset\n(01:41:49) Tool: Overcome Procrastination\n(01:52:16) Tool: Meditation & Procrastination\n(01:57:01) Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Sponsors, Momentous, Neural Network Newsletter, Social Media\nTitle Card Photo Credit: Mike Blabac\nDisclaimer",
+        "content": "\n        <p>In this episode, I explain how dopamine dynamics — meaning changes and interactions between our baseline and peak levels of dopamine drive our cravings and sense of motivation. I also explain how to leverage dopamine dynamics to overcome procrastination. I cover behavioral, cognitive, nutrition-based and supplementation-based tools to optimize baseline and peak dopamine levels to ensure a persistently motivated state. I also discuss how to boost motivation when you are in a rut, why you might not want to stack behaviors/substances that spike dopamine and how to build and maintain a “growth mindset” for pursuing goals of any kind. Dopamine is an incredibly powerful neuromodulator involved in basic functions (e.g., hunger, romantic attraction, etc.) and feats of cognitive and physical performance; by understanding the dynamics of dopamine, listeners ought to be better positioned to overcome procrastination, maintain motivation, and improve confidence.</p><p>For the full show notes, visit <a href=\"https://hubermanlab.com/leverage-dopamine-to-overcome-procrastination-and-optimize-effort/\">hubermanlab.com</a>.</p><h2>Thank you to our sponsors</h2><p>AG1 (Athletic Greens): <a href=\"https://athleticgreens.com/huberman\">https://athleticgreens.com/huberman</a></p><p>Helix Sleep: <a href=\"https://helixsleep.com/huberman\">https://helixsleep.com/huberman</a></p><p>WHOOP: <a href=\"https://join.whoop.com/huberman\">https://join.whoop.com/huberman</a></p><p>ROKA: <a href=\"https://roka.com/huberman%20\">https://roka.com/huberman</a></p><p>InsideTracker: <a href=\"https://www.insidetracker.com/huberman\">https://www.insidetracker.com/huberman</a></p><h2>Supplements from Momentous</h2><p><a href=\"https://www.livemomentous.com/huberman\">https://www.livemomentous.com/huberman</a></p><h2>Timestamps</h2><p>(00:00:00) Dopamine</p><p>(00:02:32) Sponsors: Helix Sleep, WHOOP, ROKA, Momentous</p><p>(00:06:27) Dopamine Brain Circuits</p><p>(00:14:53) Goals &amp; Addiction</p><p>(00:17:13) Dopamine Dynamics, “Wave Pool” analogy</p><p>(00:20:28) Craving, Motivation, Pursuit &amp; Reward Prediction Error</p><p>(00:28:26) Sponsor: AG1 (Athletic Greens)</p><p>(00:29:40) Feedback Cues &amp; Reward Contingent Learning, “Scoreboard”</p><p>(00:37:40) Addiction; Pleasure &amp; Pain Imbalance</p><p>(00:44:55) Dopamine Release &amp; Addictive Substances/Behaviors</p><p>(00:50:43) Addiction Recovery, Binding Behaviors</p><p>(00:53:25) Tools: Maintain Baseline Dopamine Levels</p><p>(01:02:08) Sponsor: InsideTracker</p><p>(01:03:26) Tool: Deliberate Cold Exposure &amp; Dopamine</p><p>(01:09:38) Prescriptions &amp; Supplementation: L-Tyrosine, Mucuna Pruriens</p><p>(01:18:58) Dopamine Trough Recovery, Postpartum Depression</p><p>(01:23:31) Dopamine Dynamics, “Dopamine Stacking”; Intrinsic Motivation</p><p>(01:38:10) Making Effort the Reward, Growth Mindset</p><p>(01:41:49) Tool: Overcome Procrastination</p><p>(01:52:16) Tool: Meditation &amp; Procrastination</p><p>(01:57:01) Zero-Cost Support, YouTube Feedback, Spotify &amp; Apple Reviews, Sponsors, Momentous, Neural Network Newsletter, Social Media</p><p>Title Card Photo Credit: <a href=\"https://www.blabacphoto.com/\">Mike Blabac</a></p><p><a href=\"https://hubermanlab.com/disclaimer\">Disclaimer</a></p>\n      ",
+        "podcastName": "Huberman Lab",
+        "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/92/fe/9b/92fe9b92-71ce-2db3-d7bc-341734439c5b/mza_17334163224187182080.jpeg/100x100bb.jpg",
+        "episodeDate": "2023-03-27T08:00:00.000Z",
+        "feedUrl": "https://feeds.megaphone.fm/hubermanlab",
+        "itunesTitle": "Leverage Dopamine to Overcome Procrastination & Optimize Effort"
+      },
+      {
+        "title": "Dr. Gina Poe: Use Sleep to Enhance Learning, Memory & Emotional State",
+        "streamUrl": "https://chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM4085406904.mp3?updated=1676253903",
+        "url": "https://hubermanlab.com/dr-gina-poe-use-sleep-to-enhance-learning-memory-and-emotional-state",
+        "description": "My guest this episode is Gina Poe, PhD, a professor in the department of integrative biology & physiology at the University of California, Los Angeles (UCLA). We discuss her research exploring how sleep impacts learning, memory, hormones and emotions. She discusses tools to enhance your quality of sleep, increase deep sleep, rapid eye movement sleep and growth hormone release-- a key hormone for health, immune function and vitality. Dr. Poe explains how a specific brain area, the locus coeruleus, facilitates the processing of emotions, helps relieve traumas and how to maximize locus coeruleus function. She also explains sleep’s vital role in opiate addiction recovery and how anyone can determine their optimal sleep timing and duration. This episode is rich with basic science information and zero-cost tools to enhance quality and effectiveness of sleep for sake of mental health, physical health and performance.\nFor the full show notes, visit hubermanlab.com.\nThank you to our sponsors\nAG1 (Athletic Greens): https://athleticgreens.com/huberman\nLMNT: https://drinklmnt.com/huberman\nHelix Sleep: https://helixsleep.com/huberman\nEight Sleep: https://eightsleep.com/huberman\nInsideTracker: https://www.insidetracker.com/huberman\nSupplements from Momentous\nhttps://www.livemomentous.com/huberman\nTimestamps\n(00:00:00) Dr. Gina Poe\n(00:02:52) LMNT, Helix Sleep, Eight Sleep, Momentous\n(00:06:58) Sleep Phases, Perfect Night’s Sleep\n(00:10:32) Can You Oversleep?\n(00:14:50) Sleep Cycles, Sleep Spindles, “Falling” Asleep, Dreams & Memories\n(00:19:01) Tool: Growth Hormone Release & Sleep\n(00:22:05) Adolescence; Early Sleep, Alcohol & Sleep Spindles\n(00:24:55) Middle Sleep States & REM, Schema, Waking at Night\n(00:30:33) Deep Sleep, Dreams & Senses\n(00:33:22) AG1 (Athletic Greens)\n(00:34:37) Later Sleep, Paralysis, Sleepwalking, Sleep Talking\n(00:36:47) Alarm Clock & Grogginess; Sleep Trackers, Brain & Sleep\n(00:43:19) Early Slow Wave Sleep & “Washout”, Normal Sleep Cycle & Night Owls\n(00:54:30) Locus Coeruleus, Learning & REM Sleep\n(01:01:46) Post-Traumatic Stress Disorder (PTSD), Locus Coeruleus & Sleep\n(01:06:13) InsideTracker\n(01:07:31) Locus Coeruleus, Trauma & Sleep, Antidepressants, Norepinephrine\n(01:12:29) Locus Coeruleus, Bedtime & Novelty, Estrogen & Trauma\n(01:16:22)Sex Differences & Sleep\n(01:19:12) Tool: Non-Sleep Deep Rest (NSDR), Insomnia, Meditation, Prayer\n(01:27:42) Sleep Spindles, Learning & Creativity, P Waves & Dreaming\n(01:34:51) Lucid Dreams, Reoccurring Dreams, Trauma\n(01:44:11) Trauma Recovery, Locus Coeruleus & Norepinephrine, REM Sleep \n(01:52:15) Opiates, Addiction, Relapse & Sleep\n(02:02:45) Zero-Cost Support, Spotify & Apple Reviews, YouTube Feedback, Sponsors, Momentous, Neural Network Newsletter, Social Media\nTitle Card Photo Credit: Mike Blabac\nDisclaimer",
+        "content": "\n        <p>My guest this episode is Gina Poe, PhD, a professor in the department of integrative biology &amp; physiology at the University of California, Los Angeles (UCLA). We discuss her research exploring how sleep impacts learning, memory, hormones and emotions. She discusses tools to enhance your quality of sleep, increase deep sleep, rapid eye movement sleep and growth hormone release-- a key hormone for health, immune function and vitality. Dr. Poe explains how a specific brain area, the locus coeruleus, facilitates the processing of emotions, helps relieve traumas and how to maximize locus coeruleus function. She also explains sleep’s vital role in opiate addiction recovery and how anyone can determine their optimal sleep timing and duration. This episode is rich with basic science information and zero-cost tools to enhance quality and effectiveness of sleep for sake of mental health, physical health and performance.</p><p>For the full show notes, visit <a href=\"https://hubermanlab.com/dr-gina-poe-use-sleep-to-enhance-learning-memory-and-emotional-state\">hubermanlab.com</a>.</p><h2>Thank you to our sponsors</h2><p>AG1 (Athletic Greens): <a href=\"https://athleticgreens.com/huberman\">https://athleticgreens.com/huberman</a></p><p>LMNT: <a href=\"https://drinklmnt.com/huberman\">https://drinklmnt.com/huberman</a></p><p>Helix Sleep: <a href=\"https://helixsleep.com/huberman\">https://helixsleep.com/huberman</a></p><p>Eight Sleep: <a href=\"https://eightsleep.com/huberman\">https://eightsleep.com/huberman</a></p><p>InsideTracker: <a href=\"https://www.insidetracker.com/huberman\">https://www.insidetracker.com/huberman</a></p><h2>Supplements from Momentous</h2><p><a href=\"https://www.livemomentous.com/huberman\">https://www.livemomentous.com/huberman</a></p><h2>Timestamps</h2><p>(00:00:00) Dr. Gina Poe</p><p>(00:02:52) LMNT, Helix Sleep, Eight Sleep, Momentous</p><p>(00:06:58) Sleep Phases, Perfect Night’s Sleep</p><p>(00:10:32) Can You Oversleep?</p><p>(00:14:50) Sleep Cycles, Sleep Spindles, “Falling” Asleep, Dreams &amp; Memories</p><p>(00:19:01) Tool: Growth Hormone Release &amp; Sleep</p><p>(00:22:05) Adolescence; Early Sleep, Alcohol &amp; Sleep Spindles</p><p>(00:24:55) Middle Sleep States &amp; REM, Schema, Waking at Night</p><p>(00:30:33) Deep Sleep, Dreams &amp; Senses</p><p>(00:33:22) AG1 (Athletic Greens)</p><p>(00:34:37) Later Sleep, Paralysis, Sleepwalking, Sleep Talking</p><p>(00:36:47) Alarm Clock &amp; Grogginess; Sleep Trackers, Brain &amp; Sleep</p><p>(00:43:19) Early Slow Wave Sleep &amp; “Washout”, Normal Sleep Cycle &amp; Night Owls</p><p>(00:54:30) Locus Coeruleus, Learning &amp; REM Sleep</p><p>(01:01:46) Post-Traumatic Stress Disorder (PTSD), Locus Coeruleus &amp; Sleep</p><p>(01:06:13) InsideTracker</p><p>(01:07:31) Locus Coeruleus, Trauma &amp; Sleep, Antidepressants, Norepinephrine</p><p>(01:12:29) Locus Coeruleus, Bedtime &amp; Novelty, Estrogen &amp; Trauma</p><p>(01:16:22)Sex Differences &amp; Sleep</p><p>(01:19:12) Tool: Non-Sleep Deep Rest (NSDR), Insomnia, Meditation, Prayer</p><p>(01:27:42) Sleep Spindles, Learning &amp; Creativity, P Waves &amp; Dreaming</p><p>(01:34:51) Lucid Dreams, Reoccurring Dreams, Trauma</p><p>(01:44:11) Trauma Recovery, Locus Coeruleus &amp; Norepinephrine, REM Sleep </p><p>(01:52:15) Opiates, Addiction, Relapse &amp; Sleep</p><p>(02:02:45) Zero-Cost Support, Spotify &amp; Apple Reviews, YouTube Feedback, Sponsors, Momentous, Neural Network Newsletter, Social Media</p><p>Title Card Photo Credit: <a href=\"https://www.blabacphoto.com/\">Mike Blabac</a></p><p><a href=\"https://hubermanlab.com/disclaimer\">Disclaimer</a></p>\n      ",
+        "podcastName": "Huberman Lab",
+        "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/92/fe/9b/92fe9b92-71ce-2db3-d7bc-341734439c5b/mza_17334163224187182080.jpeg/100x100bb.jpg",
+        "episodeDate": "2023-02-13T09:00:00.000Z",
+        "feedUrl": "https://feeds.megaphone.fm/hubermanlab",
+        "itunesTitle": "Dr. Gina Poe: Use Sleep to Enhance Learning, Memory & Emotional State"
+      },
+      {
+        "title": "351. The Demise of the Left: from Liberalism to Marxism | Naomi Wolf",
+        "streamUrl": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/E7B282/pdst.fm/e/verifi.podscribe.com/rss/p/pfx.vpixl.com/3Q5mz/injector.simplecastaudio.com/4ffc189d-cacf-4e7d-a45d-df24966561b2/episodes/9d034a85-9d8a-481f-afd7-b572c816ec6b/audio/128/default.mp3?aid=rss_feed&awCollectionId=4ffc189d-cacf-4e7d-a45d-df24966561b2&awEpisodeId=9d034a85-9d8a-481f-afd7-b572c816ec6b&feed=vsy1m5LV",
+        "url": "https://www.jordanbpeterson.com",
+        "description": "<p>Dr. Jordan B. Peterson and Naomi Wolf discuss her original ambitions, the derailment of her scholarly career at the hands of misogyny, her rise to the forefront of third wave feminism as a best-selling author, and how the mainstream turned on her once she wrote on a topic the Left had blacklisted: COVID-19.</p><p> </p><p>Naomi Wolf is an American author and journalist. Her first book, “The Beauty Myth,” would challenge notions of attraction, arguing they are societally fabricated. This publication became an international bestseller and cemented Wolf as one of the leading spokeswomen for the third wave feminist movement. She has published many books since then, such as “The End of America, and Vagina: A New Biography.” In recent years, she has come under fire for being an “anti-vaxer” and a “conspiracy theorist,” which led Wolf to write her most recent book, “The Bodies of Others: The New Authoritarians, COVID-19 and The War Against the Human.”</p><p> </p><p> </p><p>- Links -</p><p> </p><p>For Dr. Naomi Wolf</p><p> </p><p>The Bodies of Others (Book): https://www.amazon.com/Bodies-Others-Authoritarians-COVID-19-Against/dp/1737478560</p><p> </p><p>Instagram: https://www.instagram.com/naomirwolf/?hl=en</p><p> </p><p>Twitter: https://twitter.com/naomirwolf?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor </p>\n",
+        "content": "<p>Dr. Jordan B. Peterson and Naomi Wolf discuss her original ambitions, the derailment of her scholarly career at the hands of misogyny, her rise to the forefront of third wave feminism as a best-selling author, and how the mainstream turned on her once she wrote on a topic the Left had blacklisted: COVID-19.</p><p> </p><p>Naomi Wolf is an American author and journalist. Her first book, “The Beauty Myth,” would challenge notions of attraction, arguing they are societally fabricated. This publication became an international bestseller and cemented Wolf as one of the leading spokeswomen for the third wave feminist movement. She has published many books since then, such as “The End of America, and Vagina: A New Biography.” In recent years, she has come under fire for being an “anti-vaxer” and a “conspiracy theorist,” which led Wolf to write her most recent book, “The Bodies of Others: The New Authoritarians, COVID-19 and The War Against the Human.”</p><p> </p><p> </p><p>- Links -</p><p> </p><p>For Dr. Naomi Wolf</p><p> </p><p>The Bodies of Others (Book): https://www.amazon.com/Bodies-Others-Authoritarians-COVID-19-Against/dp/1737478560</p><p> </p><p>Instagram: https://www.instagram.com/naomirwolf/?hl=en</p><p> </p><p>Twitter: https://twitter.com/naomirwolf?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor </p>\n",
+        "podcastName": "The Jordan B. Peterson Podcast",
+        "artworkUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts112/v4/6e/7b/5a/6e7b5af3-b8c9-9d4c-9ca7-d23238187f10/mza_5230574258595727520.jpeg/100x100bb.jpg",
+        "episodeDate": "2023-04-24T16:25:50.000Z",
+        "feedUrl": "https://feeds.simplecast.com/vsy1m5LV",
+        "itunesTitle": "351. The Demise of the Left: from Liberalism to Marxism | Naomi Wolf"
+      },
+      {
+        "title": "The amazing AI super tutor for students and teachers | Sal Khan",
+        "streamUrl": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SalKhan_2023.mp3?apikey=172BB350-0207&prx_url=https://chtbl.com/track/48D18/https://dovetail.prxu.org/70/71139d6f-b123-4d07-850f-785acaa76dbe/SalKhan_2023_VO_Intro.mp3",
+        "url": "https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers?rss=172BB350-0207",
+        "description": "\n        Sal Khan, the founder and CEO of Khan Academy, thinks artificial intelligence could spark the greatest positive transformation education has ever seen. He shares the opportunities he sees for students and educators to collaborate with AI tools -- including the potential of a personal AI tutor for every student and an AI teaching assistant for every teacher -- and demos some exciting new features for their educational chatbot, Khanmigo.\n      ",
+        "content": "",
+        "podcastName": "TED Talks Daily",
+        "artworkUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f438873d-2093-45d3-b6dc-aef51861250c/SalKhan_2023-embed.jpg?",
+        "episodeDate": "2023-05-01T14:59:56.000Z",
+        "feedUrl": "http://feeds.feedburner.com/TEDTalks_audio",
+        "itunesTitle": ""
+      }
+    ]
+  },
+  "playlists": {},
+  "skipBackwardLength": 15,
+  "skipForwardLength": 15,
+  "currentEpisode": {
+    "title": "Shark Anupam Mittal REVEALS the Past, Present & Future of Investing in India",
+    "streamUrl": "https://media.rss.com/thebarbershopwithshantanu/2024_02_16_11_31_16_e8c42bc3-9f43-4d8d-a369-95cd182744b5.mp3",
+    "url": "https://rss.com/podcasts/thebarbershopwithshantanu/1348462",
+    "description": "<p>Dive into the extraordinary life of an early innovator, Anupam Mittal, as he shares the narrative of his fascinating journey. From early milestones that propelled him to multimillionaire status in his 20s to becoming a discerning judge on Shark Tank India, Anupam unveils the intriguing chapters of his life. </p><p></p><p>🔍 Uncover the layers of Anupam's story, the hurdles he overcame, and the defining moments that crafted his path. Explore the strategic foresight that led him to invest in early-stage start-ups in India, and the insights that led him to create <a href=\"http://Shaadi.com\">Shaadi.com</a>, Mauj Mobile and more! </p><p></p><p>💼 This compelling episode is a treasure trove of insights from Shark Anupam Mittal, offering profound perspectives on the dynamics of business and investing in India. Whether you're an entrepreneur, investor, or simply curious about the world of innovation, this conversation promises an enriching exploration into the heart of success and foresight.</p>",
+    "content": "",
+    "podcastName": "The BarberShop with Shantanu",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/2d/9e/ef/2d9eef99-24e0-46ae-b5e2-c7430053ee23/mza_2006545251384509804.jpg/100x100bb.jpg",
+    "episodeDate": "2024-02-16T15:20:44.000Z",
+    "feedUrl": "https://media.rss.com/thebarbershopwithshantanu/feed.xml",
+    "itunesTitle": "Shark Anupam Mittal REVEALS the Past, Present & Future of Investing in India"
+  },
+  "timestamp": {
+    "template": "{{linktime}}"
+  },
+  "note": {
+    "path": "Reference Notes/Podcasts/{{podcast}} - {{title}}",
+    "template": "---\npodcast: {{podcast}}\ntitle: {{safeTitle}}\ndate: {{date}}\n---\n\nTags: #podcast\nSub-Tags: [[]]\nZettel: #zettel/media-note\n---\n## Notes\n\n\n## Summary\n\n\n## Resources"
+  },
+  "download": {
+    "path": ""
+  },
+  "downloadedEpisodes": {},
+  "localFiles": {
+    "icon": "folder",
+    "name": "Local Files",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": []
+  }
+}

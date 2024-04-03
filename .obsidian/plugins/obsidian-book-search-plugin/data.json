@@ -1,0 +1,13 @@
+{
+  "folder": "Reference Notes/Books",
+  "fileNameFormat": "{{title}} - {{author}}",
+  "frontmatter": "title: {{title}}\nauthor: {{author}}\ncategory: {{category}}\npublisher: {{publisher}}\npublishdate: {{publishDate}}\npages: {{totalPage}}\ncover: {{coverUrl}}\nrating:\ndate read:\nstatus:",
+  "content": "",
+  "useDefaultFrontmatter": false,
+  "defaultFrontmatterKeyType": "Snake Case",
+  "templateFile": "",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default"
+}

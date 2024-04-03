@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "ff7ff47d71d28be1",
+    "type": "split",
+    "children": [
+      {
+        "id": "93215c9ded852a4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b1153cf5299d2c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/04-01-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33369d84f12d1741",
+    "type": "split",
+    "children": [
+      {
+        "id": "1921b3104c351b75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe96aa5f9770d07a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c2ab24c459aaf7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a5e005cedc31e42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.51103591918945,
+    "collapsed": true
+  },
+  "right": {
+    "id": "690a78e398f2d479",
+    "type": "split",
+    "children": [
+      {
+        "id": "87ca1f00a6e1bea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "572d1bbb23b29ac7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Note/04-01-2024.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea8285641a4cb784",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Note/04-01-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e59a92ad90c68704",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67c55cceaab1848c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Note/04-01-2024.md"
+              }
+            }
+          },
+          {
+            "id": "457b4b064212ca56",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "34f9e67d787faebb",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "581b2de4fdedebe1",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ef01c9ee07694a4",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e145c3a0c115fa27",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7833779920e7b8f2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "fe96aa5f9770d07a",
+  "lastOpenFiles": [
+    "Daily Note/03-31-2024.md",
+    "Daily Note/04-01-2024.md",
+    "Daily Note/03-23-2024.md",
+    "Daily Note/03-24-2024.md",
+    "Daily Note/03-25-2024.md",
+    "Daily Note/03-26-2024.md",
+    "Daily Note/03-28-2024.md",
+    "Daily Note/03-29-2024.md",
+    "Daily Note/03-17-2024.md",
+    "Zettelkasten/Void Linux.md",
+    "Zettelkasten/Salvatore Sanfilippo.md",
+    "Zettelkasten/Ncurses Installer.md",
+    "Zettelkasten/Linux Fun Facts.md",
+    "Zettelkasten/Important Linux Commands.md",
+    "Zettelkasten/Hinduism Resources.md",
+    "Zettelkasten/Fun and Useful CLI tools in LInux.md",
+    "Zettelkasten/Control Characters.md",
+    "Zettelkasten/Best Resources to Learn C, C++ and DSA.md",
+    "Zettelkasten/A new beginning - Re-writing a text editor.md",
+    "Files/A new beginning - Output not being left indented.png",
+    "Files/03-26-2024 tree recognises key ctrls.png",
+    "Daily Note/03-22-2024.md",
+    "Daily Note/May/17-05-2023.md",
+    "Zettelkasten/Question Driven Development.md",
+    "Daily Note/03-12-2024.md",
+    "Daily Note/03-11-2024.md",
+    "Daily Note/03-15-2024.md",
+    "Zettelkasten/Frameworks of C++.md",
+    "new_ssh.pub",
+    "new_ssh",
+    "Files/ESD Jury Panel Members.png",
+    "Files/Color Gamut.png",
+    "Files/Stack Exchange Network.png",
+    "Files/Few of 182Sites of Stack Exchange Network of sites.png",
+    "Files/Anyone can open Stack Exchange Q&A.png",
+    "Files/Pasted image 20231026021834.png",
+    "Files/Bram Moolenaar.png",
+    "Files/Linus Torvalds.png",
+    "Files/vdoc.pub_systematic-programming-an-introduction-prentice-hall-series-in-automatic-computation.pdf",
+    "Reference Notes/00_Technical Documentation",
+    "Files/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf",
+    "Files/Syllabus+for+100+Days+of+Python.pdf",
+    "Files/TOP500_Certificate_06_2023_75.pdf",
+    "Files/TOP500_202306.xlsx",
+    "Files/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf",
+    "Reference Notes/Podcasts/python program.txt",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

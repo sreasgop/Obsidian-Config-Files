@@ -1,0 +1,9 @@
+{
+  "accentColor": "#0672fe",
+  "baseFontSize": 15,
+  "translucency": false,
+  "nativeMenus": false,
+  "cssTheme": "Atom",
+  "showViewHeader": true,
+  "theme": "obsidian"
+}
